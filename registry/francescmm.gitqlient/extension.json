@@ -64,6 +64,7 @@
                 "Id": "gitqlient",
                 "Name": "GitQlient",
                 "Version": "1.6.0",
+                "CompatVersion": "17.0.0",
                 "Vendor": "Francesc M.",
                 "VendorId": "francescmm",
                 "Copyright": "(C) 2025 Francesc M.",
